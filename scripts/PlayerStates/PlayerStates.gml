@@ -1,0 +1,7 @@
+enum PLAYERSTATE
+{
+	FREE,
+	DASHING,
+	SPECIAL,
+	DEAD
+}

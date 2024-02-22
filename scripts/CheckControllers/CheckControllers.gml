@@ -1,0 +1,1 @@
+return (argument0 != oCharP1.controllerNum && argument0 != oCharP2.controllerNum && argument0 != oCharP3.controllerNum && argument0 != oCharP4.controllerNum)

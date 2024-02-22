@@ -1,0 +1,1 @@
+if state == PLAYERSTATE.DASHING && !statDash && !other.invinc && dashDur > 5 other.state = PLAYERSTATE.DEAD;
